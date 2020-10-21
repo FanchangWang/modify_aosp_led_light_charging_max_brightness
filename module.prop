@@ -1,7 +1,6 @@
-# id 只能填 字母 数字 半角符号
-id=template
-name=模块模板
+id=modify_aosp_led_light_charging_max_brightness
+name=修改 AOSP 充电 LED 灯最大亮度
 version=v1
 versionCode=1
-author=Pinkdoge
-description=一个简短的描述
+author=古月玄
+description=修改 AOSP 充电 LED 灯最大亮度为 10。注意：此模块仅使用 MI MIX2 Pixel Experience ROM 测试，其他机型 & ROM 请自行测试是否可用。

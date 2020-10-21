@@ -5,3 +5,4 @@ MODDIR=${0%/*}
 
 # 这个脚本将以 late_start service 模式执行
 # 更多信息请访问 Magisk 主题
+echo 10 > /sys/class/leds/white/max_brightness
